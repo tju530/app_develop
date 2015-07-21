@@ -1,0 +1,1 @@
+This directory is android app develop project.
